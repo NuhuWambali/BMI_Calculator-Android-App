@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="bmi_logo">BMI logo</string>
+    <string name="fill_your_information_here">Fill your information here</string>
+</resources>
